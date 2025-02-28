@@ -1,7 +1,8 @@
 fastapi==0.109.0
 uvicorn==0.27.0
 pydantic==2.5.3
-langchain>=0.1.0
+langchain
 openai==0.28.0
 python-dotenv==1.0.0
-langchain-google-genai>=0.0.3
+langchain-google-genai
+langchain-core
